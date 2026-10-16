@@ -1,5 +1,5 @@
-Nilai_1 = float(input("Masukkan Nilai 1: "))
-Nilai_2 = float(input("Masukkan Nilai 2: "))
+Nilai_1 = float(input("Masukkan Nilai Pertama: "))
+Nilai_2 = float(input("Masukkan Nilai Kedua: "))
 
 Hasil_Penjumlahan = Nilai_1 + Nilai_2
 

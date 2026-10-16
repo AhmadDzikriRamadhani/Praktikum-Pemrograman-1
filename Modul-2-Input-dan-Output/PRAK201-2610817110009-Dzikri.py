@@ -1,10 +1,10 @@
-Nama = input("Nama: ")
-NIM = input("NIM: ")
-Kelas_Paralel = input("Kelas Paralel: ")
-Tempat_Tanggal_Lahir = input("Tempat/Tanggal Lahir: ")
-Alamat = input("Alamat: ")
-Hobby = input("Hobby: ")
-No_HP = input("No. HP: ")
+Nama                 = input("Nama                        : ")
+NIM                  = input("NIM                         : ")
+Kelas_Paralel        = input("Kelas Paralel               : ")
+Tempat_Tanggal_Lahir = input("Tempat/Tanggal Lahir        : ")
+Alamat               = input("Alamat                      : ")
+Hobby                = input("Hobby                       : ")
+No_HP                = input("No. HP                      : ")
 
 print("\n"
     f"Nama                        : {Nama}\n"

@@ -3,9 +3,9 @@
 int main() {
     float Nilai_1, Nilai_2, Hasil_Penjumlahan;
 
-    printf("Masukkan Nilai 1: ");
+    printf("Masukkan Nilai Pertama: ");
     scanf("%f", &Nilai_1);
-    printf("Masukkan Nilai 2: ");
+    printf("Masukkan Nilai Kedua: ");
     scanf("%f", &Nilai_2);
 
     Hasil_Penjumlahan = Nilai_1 + Nilai_2;
